@@ -1,1 +1,2 @@
-# Black-Jack
+En los siguientes archivos podremos observar un juego muy conocido llamado Black-Jack o “21”. En la carpeta assets/js/ podremos encontrar un archivo llamado juego.js, en el mismo habrán muchas líneas comentadas las cuales, tienen muchos comentarios acerca de la funcionalidad de estas, luego, simplemente el código ordenado y limpio. 
+ Siéntanse libres de usar el código o implementar algo que les pueda llegar a servir. 
